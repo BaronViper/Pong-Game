@@ -15,12 +15,12 @@ To run the Pong game, you need to have the following requirements installed:
 
 1. Clone this repository to your local machine or download the ZIP file.
    ```
-   git clone https://github.com/your-username/pong-game.git
+   git clone https://github.com/your-username/Pong-Game.git
    ```
 
 2. Navigate to the project directory.
    ```
-   cd pong-game
+   cd Pong-Game
    ```
 
 3. Run the game.
